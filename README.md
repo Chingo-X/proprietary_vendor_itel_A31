@@ -1,1 +1,0 @@
-proprietary_vendor_itel_A31

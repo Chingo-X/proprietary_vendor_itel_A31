@@ -1,0 +1,8 @@
+CMD_SET_CPU_CORE_MIN com.ludashi.benchmark 4
+CMD_SET_CPU_FREQ_MIN com.ludashi.benchmark 1300000
+CMD_SET_CPU_CORE_MIN com.antutu.ABenchMark 4
+CMD_SET_CPU_FREQ_MIN com.antutu.ABenchMark 1300000
+CMD_SET_CPU_CORE_MIN com.qihoo360.mobilesafe.bench 4
+CMD_SET_CPU_FREQ_MIN com.qihoo360.mobilesafe.bench 1300000
+CMD_SET_CPU_CORE_MIN com.antutu.benchmark.full 4
+CMD_SET_CPU_FREQ_MIN com.antutu.benchmark.full 1300000
